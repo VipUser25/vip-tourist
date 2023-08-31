@@ -1,0 +1,9 @@
+POST http://37.140.241.144:1337/reviews HTTP/1.1
+content-type: application/json
+
+{
+"text": "blablabla",
+"rating": "4",
+"name": "fsdfsdfsdf",
+"profile": "6184f9a7a0760aefaa9732ad"
+}

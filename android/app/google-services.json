@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "813813401390",
+    "project_id": "vip-tourist-c24cc",
+    "storage_bucket": "vip-tourist-c24cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813813401390:android:65d359b2a157e64f701cbf",
+        "android_client_info": {
+          "package_name": "com.alishber.vip_tourist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813813401390-4pku59eregc1vgjt8fvtad4mbte5emh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alishber.vip_tourist",
+            "certificate_hash": "71d3668c3c33ff07ff5278fba83e7f166a6c1212"
+          }
+        },
+        {
+          "client_id": "813813401390-5rciggsa309m5lfmf3qsuk29gam6r91g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alishber.vip_tourist",
+            "certificate_hash": "2fa1b9cfa378507258440e786c7967d192f7b6b1"
+          }
+        },
+        {
+          "client_id": "813813401390-l67q1enr056qa7ar8p4gm61jm55k13ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alishber.vip_tourist",
+            "certificate_hash": "5811013ec1d3b5b9f1beb13d2bd034a0fefae3ea"
+          }
+        },
+        {
+          "client_id": "813813401390-phrm6e8qah7a6k3i9ioh4hgmv561rqgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTQ-NA7lA2q9guOV0o8nJvIc5xGoZFFa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813813401390-phrm6e8qah7a6k3i9ioh4hgmv561rqgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813813401390-f1b5sngneg031f2422hjo747u0mdqsep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alishber.vipTourist123"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
